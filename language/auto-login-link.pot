@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Auto Login Link\n"
+"POT-Creation-Date: 2020-08-24 07:55+0700\n"
+"PO-Revision-Date: 2019-11-11 15:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: auto-login-link.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+#: auto-login-link.php:81 classes/admin.php:72
+msgid "Auto Login Link"
+msgstr ""
+
+#: classes/admin.php:33
+msgid "New Auto Login Link has been created"
+msgstr ""
+
+#: classes/admin.php:36
+msgid "Create New Auto Login Link Link"
+msgstr ""
+
+#: classes/admin.php:50
+msgid "Auto Login Link has been updated"
+msgstr ""
+
+#: classes/admin.php:53
+msgid "Edit Auto Login Link"
+msgstr ""
+
+#: classes/admin.php:59
+msgid "Auto Login Link has been deleted"
+msgstr ""
+
+#: classes/admin.php:66
+msgid "Auto Login Links have been deleted"
+msgstr ""
+
+#: classes/list-table.php:12
+msgid "auto add to cart link"
+msgstr ""
+
+#: classes/list-table.php:13
+msgid "auto add to cart links"
+msgstr ""
+
+#: classes/list-table.php:21
+msgid "No link available"
+msgstr ""
+
+#: classes/list-table.php:27
+msgid "ID"
+msgstr ""
+
+#: classes/list-table.php:28 templates/admin/form.php:13
+msgid "URL"
+msgstr ""
+
+#: classes/list-table.php:29
+msgid "User"
+msgstr ""
+
+#: classes/list-table.php:51
+msgid "Edit"
+msgstr ""
+
+#: classes/list-table.php:52
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/form.php:21
+msgid "Apply for user"
+msgstr ""
+
+#: templates/admin/list.php:6
+msgid "Add New"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://84g.us"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Bagus Pribadi Setiawan"
+msgstr ""
